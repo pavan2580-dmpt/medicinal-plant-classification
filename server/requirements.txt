@@ -1,0 +1,24 @@
+# fastapi
+# uvicorn
+# motor
+# pydantic
+# bcrypt
+# pyjwt
+# tensorflow
+# numpy
+# openai
+# python-dotenv
+# python-multipart
+# Pillow
+
+Flask==2.2.3
+flask-pymongo==2.3.0
+PyJWT==2.8.0
+bcrypt==4.0.1
+tensorflow==2.13.0
+numpy==1.24.3
+openai==0.27.0
+pillow==9.5.0
+python-dotenv==1.0.0
+werkzeug==2.2.3
+python-multipart==0.0.5
